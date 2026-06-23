@@ -1,7 +1,7 @@
 {
     "name": "Soni Brothers",
-    "short_name": "Soni Bros",
-    "description": "SoniBrothers",
+    "short_name": "Sonibros",
+    "description": "Sonibros",
     "start_url": "https://sonibrotherstore.in/",
     "display": "fullscreen",
     "orientation": "portrait",
