@@ -14,7 +14,7 @@ Generated Android Trusted Web Activity (TWA) project for **Soni Brothers**.
 | Website URL | https://sonibrotherstore.in/ |
 | Verified host | sonibrotherstore.in |
 | Description | Soni Brothers i |
-| Generated at | 2026-06-23 14:00:21 UTC |
+| Generated at | 2026-06-23 14:01:56 UTC |
 
 ## What This Project Contains
 
