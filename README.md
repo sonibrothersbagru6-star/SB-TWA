@@ -9,12 +9,12 @@ Generated Android Trusted Web Activity (TWA) project for **Soni Brothers**.
 | Field | Value |
 | --- | --- |
 | App name | Soni Brothers |
-| Short name | Soni Brothers |
+| Short name | Soni Bros |
 | Package ID | `com.sonibrothers.store` |
 | Website URL | https://sonibrotherstore.in/ |
 | Verified host | sonibrotherstore.in |
-| Description | Soni Brothers i |
-| Generated at | 2026-06-23 14:02:50 UTC |
+| Description | SoniBrothers |
+| Generated at | 2026-06-23 14:04:44 UTC |
 
 ## What This Project Contains
 
